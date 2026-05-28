@@ -30,3 +30,4 @@ C:\Users\chand\Desktop\level-zero-devops\helloapp\obj\Debug\net9.0\refint\helloa
 C:\Users\chand\Desktop\level-zero-devops\helloapp\obj\Debug\net9.0\helloapp.pdb
 C:\Users\chand\Desktop\level-zero-devops\helloapp\obj\Debug\net9.0\helloapp.genruntimeconfig.cache
 C:\Users\chand\Desktop\level-zero-devops\helloapp\obj\Debug\net9.0\ref\helloapp.dll
+C:\Users\chand\Desktop\level-zero-devops\helloapp\obj\Debug\net9.0\helloapp.sourcelink.json
