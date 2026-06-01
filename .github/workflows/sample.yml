@@ -17,5 +17,7 @@ jobs:
         run: dotnet build helloapp/helloapp.csproj --no-restore 
       - name: test 
         run: dotnet test helloapp/helloapp.csproj 
-  
+      - name: publish
+        run: dotnet publish helloapp/helloapp.csproj --no-restore
+        
       
