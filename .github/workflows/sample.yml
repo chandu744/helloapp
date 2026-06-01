@@ -19,5 +19,9 @@ jobs:
         run: dotnet test helloapp/helloapp.csproj 
       - name: publish
         run: dotnet publish helloapp/helloapp.csproj --no-restore
-        
-      
+
+      - name: upload artifact
+        uses: actions/upload-artifact@v7
+        with:
+         name: my-artifact
+         path: helloapp/helloapp/helloapp/bin/Release/net9.0/publish/
