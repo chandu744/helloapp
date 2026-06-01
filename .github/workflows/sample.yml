@@ -24,4 +24,4 @@ jobs:
         uses: actions/upload-artifact@v7
         with:
          name: my-artifact
-         path: helloapp/helloapp/helloapp/bin/Release/net9.0/publish/
+         path: helloapp/bin/Release/net9.0/publish/
